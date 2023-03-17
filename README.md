@@ -10,7 +10,7 @@ This study uses natural language processing (NLP) on comments from the website R
 - Scikit-learn 1.2.2
 
 ## Paper
-[The paper](https://ieeexplore.ieee.org/document/9995512) for this project was published in the 2022 IEEE Bioinformatics and Biomedicine (BIBM) conference in Las Vegas.
+[The paper](https://ieeexplore.ieee.org/document/9995512) for this research was published in the 2022 IEEE Bioinformatics and Biomedicine (BIBM) conference in Las Vegas.
 
 ## Methods
 I used two public datasets for training:
