@@ -8,6 +8,7 @@ This study uses natural language processing (NLP) on comments from the website R
 - TensorFlow 2.11.0
 - NLTK (Natural Language Tool Kit)
 - Scikit-learn 1.2.2
+- Demoji 1.1.0
 
 ## Paper
 [The paper](https://ieeexplore.ieee.org/document/9995512) for this research was published in the 2022 IEEE Bioinformatics and Biomedicine (BIBM) conference in Las Vegas.
