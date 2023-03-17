@@ -1,6 +1,6 @@
 # COVID-19 Impact on Mental Health Analysis based on Reddit Comments
 
-This project uses natural language processing (NLP) on comments from the website Reddit to determine the effects of the COVID-19 pandemic on 5 mental health communities: r/anxiety, r/depression, r/SuicideWatch, r/mentalhealth, and r/COVID19_support. 
+This study uses natural language processing (NLP) on comments from the website Reddit to determine the effects of the COVID-19 pandemic on the mental health of 5 communities: r/anxiety, r/depression, r/SuicideWatch, r/mentalhealth, and r/COVID19_support.
 
 ## Requirements
 - Jupyter Notebook or Jupyter Lab
